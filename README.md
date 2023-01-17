@@ -1,5 +1,6 @@
 学习pytorch时的代码文件，仓库结构如下
 
+```
 ├─.idea
 │  └─inspectionProfiles
 ├─.ipynb_checkpoints
@@ -12,13 +13,18 @@
 │  └─val
 │      ├─ants
 │      └─bees
+├─logs
+├─model
 ├─myimage
-└─test_dataset
-    ├─train
-    │  ├─ants_image
-    │  ├─ants_label
-    │  ├─bees_image
-    │  └─bees_label
-    └─val
-        ├─ants
-        └─bees
+├─test_dataset
+│  ├─train
+│  │  ├─ants_image
+│  │  ├─ants_label
+│  │  ├─bees_image
+│  │  └─bees_label
+│  └─val
+│      ├─ants
+│      └─bees
+└─__pycache__
+```
+
